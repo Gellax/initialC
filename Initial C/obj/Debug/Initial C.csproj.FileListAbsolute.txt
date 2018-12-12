@@ -1,1 +1,9 @@
 c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\bin\Debug\Initial C.exe.config
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.csprojResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial_C.Form1.resources
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial_C.Properties.Resources.resources
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.csproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\bin\Debug\Initial C.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\bin\Debug\Initial C.pdb
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.pdb
