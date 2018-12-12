@@ -51,6 +51,7 @@
             this.dgvVehicule.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvVehicule.Location = new System.Drawing.Point(13, 54);
             this.dgvVehicule.Name = "dgvVehicule";
+            this.dgvVehicule.ReadOnly = true;
             this.dgvVehicule.Size = new System.Drawing.Size(440, 111);
             this.dgvVehicule.TabIndex = 1;
             // 
