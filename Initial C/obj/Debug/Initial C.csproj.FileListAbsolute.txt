@@ -7,3 +7,13 @@ c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\bin\D
 c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\bin\Debug\Initial C.pdb
 c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.exe
 c:\users\nicolas\documents\visual studio 2015\Projects\Initial C\Initial C\obj\Debug\Initial C.pdb
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\bin\Debug\Initial C.exe.config
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\bin\Debug\Initial C.exe
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\bin\Debug\Initial C.pdb
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial C.csprojAssemblyReference.cache
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial_C.Form1.resources
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial_C.Properties.Resources.resources
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial C.csproj.GenerateResource.cache
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial C.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial C.exe
+C:\Users\Alexandre HUN\source\repos\initialC\Initial C\obj\Debug\Initial C.pdb

@@ -45,5 +45,35 @@ namespace Initial_C
                     break;
             }
         }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if(!dgvVehicule.SelectedRows.Equals(null))
+            {
+                switch(cbCatégorie.Text)
+                {
+                    case "Voiture":
+                        voitures.RemoveAt(dgvVehicule.CurrentRow.Index);
+                        dgvVehicule.DataSource = null;
+                        dgvVehicule.DataSource = voitures;
+                        break;
+                    case "Camion":
+                        camions.RemoveAt(dgvVehicule.CurrentRow.Index);
+                        dgvVehicule.DataSource = null;
+                        dgvVehicule.DataSource = camions;
+                        break;
+                    case "Bateau":
+                        bateaux.RemoveAt(dgvVehicule.CurrentRow.Index);
+                        dgvVehicule.DataSource = null;
+                        dgvVehicule.DataSource = bateaux;
+                        break;
+                }
+            }
+
+            else
+            {
+                MessageBox.Show("Veuillez Selectionner une ligne à effacer");
+            }
+        }
     }
 }
