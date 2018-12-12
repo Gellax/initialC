@@ -12,7 +12,7 @@ namespace Initial_C
         protected string etat;
         protected string constructeur;
         protected string modèle;
-        private int km;
+        protected int km;
 
         protected int Id
         {

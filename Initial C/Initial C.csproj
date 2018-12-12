@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Bateau.cs" />
     <Compile Include="Camion.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
