@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Initial_C
 {
-    class Voiture
+    class Voiture : Véhicule
     {
+        private string constructeur;
+        
     }
 }
