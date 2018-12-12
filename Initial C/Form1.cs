@@ -45,5 +45,10 @@ namespace Initial_C
                     break;
             }
         }
+
+        private void dgvVehicule_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            dgvVehicule.cu
+        }
     }
 }

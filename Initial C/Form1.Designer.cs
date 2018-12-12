@@ -54,6 +54,7 @@
             this.dgvVehicule.ReadOnly = true;
             this.dgvVehicule.Size = new System.Drawing.Size(440, 111);
             this.dgvVehicule.TabIndex = 1;
+            this.dgvVehicule.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvVehicule_CellContentClick);
             // 
             // Form1
             // 
