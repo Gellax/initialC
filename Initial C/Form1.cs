@@ -17,14 +17,33 @@ namespace Initial_C
             InitializeComponent();
         }
 
+        //Les différentes listes de véhicules en variables globales
+        List<Voiture> voitures;
+        List<Camion> camions;
+        List<Bateau> bateaux;
+
+        //Load de l'application - généré automatiquement par l'IDE
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            //Mise en place du jeu d'essai
+            voitures = JeuDEssai.initializeVoiture();
+            camions = JeuDEssai.initializeCamion();
+            bateaux = JeuDEssai.initializeBateau();
         }
 
+        //Event listener - S'active quand l'index sélectionné dans la Combobox change
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+          
+            switch (cbCatégorie.Text)
+            {
+                case "Voiture": dgvVehicule.DataSource = voitures;
+                    break;
+                case "Camion": dgvVehicule.DataSource = camions;
+                    break;
+                case "Bateau": dgvVehicule.DataSource = bateaux;
+                    break;
+            }
         }
     }
 }
